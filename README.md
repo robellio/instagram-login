@@ -11,6 +11,4 @@
 **HTML**
 **CSS**
 
-<h2 align="center">
   <img src="insta-gif.gif" alt="Readme" title="Readme">
-</h2>
