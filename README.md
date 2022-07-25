@@ -11,4 +11,4 @@
 **HTML**
 **CSS**
 
-  <img src="insta-gif.gif" alt="Readme" title="Readme">
+  <img src="insta-gif.gif" alt="Readme" title="Readme" />
